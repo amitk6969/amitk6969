@@ -1,5 +1,34 @@
 ## Hi there 👋
 
+I'm Amit, a developer who enjoys building useful projects, learning new technologies, and collaborating with others.
+
+### About me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+### 🚀 Skills & Interests
+- Web development
+- Software engineering
+- Problem solving
+- Learning new tools and frameworks
+- Building projects that create real value
+
+### 📁 Projects
+Explore my repositories to see the work I’m building and the ideas I’m exploring.
+
+### 🌐 Connect
+- GitHub: [@amitk6969](https://github.com/amitk6969)
+- Email: ...
+- LinkedIn: ...
+
+---
+
 <!--
 **amitk6969/amitk6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
